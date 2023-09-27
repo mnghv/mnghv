@@ -4,7 +4,7 @@
 
 👩‍💻 About Me:
 
-👋 Hi there! I'm a highly skilled and versatile software engineer with a strong background in PHP, Laravel, Docker, CodeIgniter, React, GraphQL, and tRPC. 💻 With nearly six years of experience in web development and programming, I've honed my abilities to deliver robust and innovative solutions tailored to meet the unique needs of diverse projects. 🚀
+I'm a highly skilled and versatile software engineer with a strong background in PHP, Laravel, Docker, CodeIgniter, React, GraphQL, and tRPC. 💻 With nearly six years of experience in web development and programming, I've honed my abilities to deliver robust and innovative solutions tailored to meet the unique needs of diverse projects. 🚀
 
 My proficiency in PHP and its associated frameworks, including Laravel and CodeIgniter, has allowed me to architect and implement efficient, scalable, and secure web applications. 🌐 I'm well-versed in both front-end and back-end development, utilizing technologies such as React for dynamic user interfaces and GraphQL for efficient data querying.
 
