@@ -4,7 +4,7 @@
 
 👩‍💻 About Me:
 
-I'm a highly skilled and versatile software engineer with a strong background in PHP, Laravel, Docker, CodeIgniter, React, GraphQL, and gRPC. 💻 With nearly six years of experience in web development and programming, I've honed my abilities to deliver robust and innovative solutions tailored to meet the unique needs of diverse projects. 🚀
+👋 Hi there! I'm a highly skilled and versatile software engineer with a strong background in PHP, Laravel, Docker, CodeIgniter, React, GraphQL, and tRPC. 💻 With nearly six years of experience in web development and programming, I've honed my abilities to deliver robust and innovative solutions tailored to meet the unique needs of diverse projects. 🚀
 
 My proficiency in PHP and its associated frameworks, including Laravel and CodeIgniter, has allowed me to architect and implement efficient, scalable, and secure web applications. 🌐 I'm well-versed in both front-end and back-end development, utilizing technologies such as React for dynamic user interfaces and GraphQL for efficient data querying.
 
@@ -15,6 +15,9 @@ My experience with GraphQL and tRPC 🚀 has enabled me to build high-performanc
 Whether working independently or as part of a collaborative team, I bring a positive attitude, strong work ethics, and effective communication skills to the table. 🤝 I'm always eager to learn and adapt, making me capable of quickly mastering new technologies and programming languages as needed to excel in any project. 📚
 
 I am excited to contribute my expertise to innovative projects that demand cutting-edge technologies and creative problem-solving. My goal is to leverage my skills to drive excellence in software development and deliver tangible value to my team and organization. 🌟
+
+**LinkedIn:** [linkedin.com/in/mnghv](https://www.linkedin.com/in/mnghv)  
+**Email:** [nghv.work@gmail.com](mailto:nghv.work@gmail.com)
 
 
 <!-- I'm a passionate developer with 6 years of experience in web development. My expertise includes working with PHP, Node.js, and various databases such as MySQLi and MongoDB. I'm proficient in API development, specializing in GraphQL and RESTful APIs. On the front-end, I'm skilled in HTML, CSS, JavaScript, and jQuery. I have hands-on experience with popular frameworks like React, Vue, Laravel, and Express.
