@@ -16,8 +16,6 @@ Whether working independently or as part of a collaborative team, I bring a posi
 
 I am excited to contribute my expertise to innovative projects that demand cutting-edge technologies and creative problem-solving. My goal is to leverage my skills to drive excellence in software development and deliver tangible value to my team and organization. 🌟
 
-Feel free to add these emojis to your resume introduction to add a touch of personality and visual appeal.
-
 
 <!-- I'm a passionate developer with 6 years of experience in web development. My expertise includes working with PHP, Node.js, and various databases such as MySQLi and MongoDB. I'm proficient in API development, specializing in GraphQL and RESTful APIs. On the front-end, I'm skilled in HTML, CSS, JavaScript, and jQuery. I have hands-on experience with popular frameworks like React, Vue, Laravel, and Express.
 
