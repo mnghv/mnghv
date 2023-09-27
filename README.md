@@ -10,7 +10,7 @@ My proficiency in PHP and its associated frameworks, including Laravel and CodeI
 
 One of my key strengths 🛠️ lies in containerization and deployment using Docker, ensuring seamless application portability and efficient resource management. I have a proven track record of optimizing development workflows through containerization, resulting in quicker development cycles and easier scalability. 🐳
 
-My experience with GraphQL and TRPC 🚀 has enabled me to build high-performance APIs, providing clients with efficient and flexible data access. I thrive on challenges and have a deep passion for problem-solving, critical thinking, and a commitment to delivering exceptional results. 💡
+My experience with GraphQL and tRPC 🚀 has enabled me to build high-performance APIs, providing clients with efficient and flexible data access. I thrive on challenges and have a deep passion for problem-solving, critical thinking, and a commitment to delivering exceptional results. 💡
 
 Whether working independently or as part of a collaborative team, I bring a positive attitude, strong work ethics, and effective communication skills to the table. 🤝 I'm always eager to learn and adapt, making me capable of quickly mastering new technologies and programming languages as needed to excel in any project. 📚
 
