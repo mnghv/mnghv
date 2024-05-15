@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohaddese! 👋
 
-🌍 Location: Sari, Iran
+🌍 Location: Istanbul, Turkey
 
 👩‍💻 About Me:
 
