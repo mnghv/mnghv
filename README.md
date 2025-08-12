@@ -24,11 +24,23 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnghv&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnghv&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnghv&layout=compact&theme=tokyonight" height="150" />
-</div>  
 
+<!-- آمار کلی -->
+<img src="https://github-readme-stats.vercel.app/api?username=mnghv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="150" />
+
+<!-- بیشترین زبان‌ها -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnghv&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" height="150" />
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnghv&theme=tokyonight&hide_border=true" height="150" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=mnghv&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mnghv&theme=tokyo-night&hide_border=true" />
+
+</div>
 ---
 
 ## 📫 Contact Me  
