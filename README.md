@@ -1,3 +1,49 @@
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=Mohds.Nghv%20|%20Senior%20Frontend%20Developer&fontColor=ffffff&fontSize=28&fontAlignY=35)
+
+## 💡 About Me  
+
+👋 Hi! I’m **Mohaddese Naghavi**, a passionate **Senior Frontend Developer** with over **7 years of experience** crafting dynamic, responsive, and scalable web applications. My journey began with curiosity about how the web works and evolved into a career dedicated to building **elegant, user-centered digital experiences**.  
+
+💻 I specialize in **React**, **Next.js**, and **TypeScript**, combined with modern UI frameworks like **Tailwind CSS** and **HeroUI** to create clean, maintainable, and high-performance interfaces. I’ve collaborated with industries including **construction 🏗**, **healthcare 🏥**, and **e-commerce 🛒**, delivering solutions that meet business goals and delight users.  
+
+🚀 Known for my **problem-solving mindset** and adaptability, I focus on **quality, speed, and precision** — whether improving **Core Web Vitals**, building a fully customized CMS, or leading cross-functional teams.  
+
+📚 Outside of coding, I’m always learning — exploring **new frontend tech, UI/UX trends, and performance optimization techniques** to stay ahead in this fast-moving industry.  
+
+---
+
+## 🛠 Tech Stack  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,graphql,redux,figma,git,html,css,js" />
+</div>  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mnghv&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnghv&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnghv&layout=compact&theme=tokyonight" height="150" />
+</div>  
+
+---
+
+## 📫 Contact Me  
+
+<p align="center">
+  🌐 <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a>  
+  📧 <a href="mailto:nghv.work@gmail.com">nghv.work@gmail.com</a>  
+  💼 <a href="https://linkedin.com/in/mnghv" target="_blank">linkedin.com/in/mnghv</a>  
+</p>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0083b0,100:00b4db&height=120&section=footer)
+
+
+<!--
 ### Hi there, I'm Mohaddese! 👋
 
 🌍 Location: Istanbul, Turkey
@@ -20,22 +66,4 @@ I am excited to contribute my expertise to innovative projects that demand cutti
 **Email:** [nghv.work@gmail.com](mailto:nghv.work@gmail.com)
 
 
-<!-- I'm a passionate developer with 6 years of experience in web development. My expertise includes working with PHP, Node.js, and various databases such as MySQLi and MongoDB. I'm proficient in API development, specializing in GraphQL and RESTful APIs. On the front-end, I'm skilled in HTML, CSS, JavaScript, and jQuery. I have hands-on experience with popular frameworks like React, Vue, Laravel, and Express.
-
-✨ I constantly seek opportunities to expand my knowledge and stay up-to-date with the latest technologies and trends in the development world. I enjoy taking on challenging projects, collaborating with like-minded individuals, and delivering high-quality solutions.
-
-🔍 If you're looking for a dedicated developer who can create efficient and robust applications, feel free to reach out. I'm open to new opportunities and exciting projects. Let's connect and build something amazing together!
-
-**mnghv/mnghv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
