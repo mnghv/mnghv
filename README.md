@@ -1,5 +1,5 @@
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=Mohds.Nghv%20|%20Senior%20Frontend%20Developer&fontColor=ffffff&fontSize=28&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=Mohaddese.Nghv%20|%20Frontend%20Developer&fontColor=ffffff&fontSize=28&fontAlignY=35)
 
 ## 💡 About Me  
 
@@ -31,13 +31,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnghv&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" height="150" />
 
-<!-- Streak -->
+<!-- Streak 
 <img src="https://streak-stats.demolab.com/?user=mnghv&theme=tokyonight&hide_border=true" height="150" />
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mnghv&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+-->
+<!-- Trophies 
+<img src="https://github-profile-trophy.vercel.app/?username=mnghv&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />-->
 
 </div>
+
+## 🔥 GitHub Streak  
+
+[View my GitHub Streak](https://streak-stats.demolab.com/?user=mnghv&theme=tokyonight&hide_border=true)
 
 
 ## 📈 Contributions Last Year
@@ -49,11 +53,16 @@
 
 ## 📫 Contact Me  
 
-<p align="center">
-  🌐 <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a>  
-  📧 <a href="mailto:nghv.work@gmail.com">nghv.work@gmail.com</a>  
-  💼 <a href="https://linkedin.com/in/mnghv" target="_blank">linkedin.com/in/mnghv</a>  
-</p>
+<ul align="left" style="list-style-type:none; padding-left: 0;">  <li>
+    🌐 <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a> 
+  </li>
+  <li>
+    📧 <a href="mailto:nghv.work@gmail.com">nghv.work@gmail.com</a>  
+  </li>
+  <li>
+    💼 <a href="https://linkedin.com/in/mnghv" target="_blank">linkedin.com/in/mnghv</a>  
+  </li>
+</ul>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0083b0,100:00b4db&height=120&section=footer)
