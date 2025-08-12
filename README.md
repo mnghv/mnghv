@@ -1,4 +1,3 @@
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=Mohaddese.Nghv%20|%20Frontend%20Developer&fontColor=ffffff&fontSize=28&fontAlignY=35)
 
 ## 💡 About Me  
@@ -10,6 +9,13 @@
 🚀 Known for my **problem-solving mindset** and adaptability, I focus on **quality, speed, and precision** — whether improving **Core Web Vitals**, building a fully customized CMS, or leading cross-functional teams.  
 
 📚 Outside of coding, I’m always learning — exploring **new frontend tech, UI/UX trends, and performance optimization techniques** to stay ahead in this fast-moving industry.  
+
+---
+
+## 📄 Resume
+
+You can download my resume here:  
+[Download Resume (PDF)](./Mohds_Nghv_FrontEnd.pdf)
 
 ---
 
@@ -66,7 +72,6 @@
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0083b0,100:00b4db&height=120&section=footer)
-
 
 <!--
 ### Hi there, I'm Mohaddese! 👋
