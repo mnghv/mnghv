@@ -15,7 +15,7 @@
 ## 📄 Resume
 
 You can download my resume here:  
-[Download Resume (PDF)](./Mohds_Nghv_FrontEnd.pdf)
+<a href="./Mohds_Nghv_FrontEnd.pdf" download>Download Resume (PDF)</a>
 
 ---
 
